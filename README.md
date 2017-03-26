@@ -20,7 +20,7 @@ The answer is a bit farther down.
 
 7. Supports all different types of documentation formats. (supports RST and other formats that are not Markdown)
 
-8. Any private REpositories must be paid for with $$$.
+8. Any private Repositories must be paid for with $$$.
 
 ## BitBucket
 
@@ -34,7 +34,9 @@ The answer is a bit farther down.
 
 5. Supports all different types of documentation formats. (supports RST and other formats that are not Markdown)
 
-6. It is easier to just support an easily managed public bugtracker for closed sourced projects. (Github does not allow this for private repositories
+6. It is easier to just support an easily managed public bugtracker for closed sourced projects. (Github does not allow this for private repositories.
+
+7. Wikis for every projects. (Optional)
 
 ### Resolution
 
