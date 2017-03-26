@@ -1,4 +1,4 @@
-### Githu vs. BitBucket
+### Github vs. BitBucket
 
 Welcome github users. You might be Wondering *Why would I want to use github over bitbucket?* or *Why would I want to use bitbucket over github?*
 
